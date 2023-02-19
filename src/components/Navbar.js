@@ -17,8 +17,14 @@ const links =[
     },
     {
         name:"Home",
-        link: "/home",
+        link: "/",
         id: "home",
+        priority: false
+    },
+    {
+        name:"Main",
+        link: "/main",
+        id: "main",
         priority: false
     },
        
